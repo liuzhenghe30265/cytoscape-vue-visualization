@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "cytoscape": "^3.18.2",
+    "cytoscape-cxtmenu": "^3.4.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
